@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Progress-Circle-Bar/static/css/main.9b173a45.chunk.css",
+    "main.js": "/Progress-Circle-Bar/static/js/main.5b027fe6.chunk.js",
+    "main.js.map": "/Progress-Circle-Bar/static/js/main.5b027fe6.chunk.js.map",
+    "runtime-main.js": "/Progress-Circle-Bar/static/js/runtime-main.5ae97dde.js",
+    "runtime-main.js.map": "/Progress-Circle-Bar/static/js/runtime-main.5ae97dde.js.map",
+    "static/js/2.c4a46b43.chunk.js": "/Progress-Circle-Bar/static/js/2.c4a46b43.chunk.js",
+    "static/js/2.c4a46b43.chunk.js.map": "/Progress-Circle-Bar/static/js/2.c4a46b43.chunk.js.map",
+    "static/js/3.d796dbf1.chunk.js": "/Progress-Circle-Bar/static/js/3.d796dbf1.chunk.js",
+    "static/js/3.d796dbf1.chunk.js.map": "/Progress-Circle-Bar/static/js/3.d796dbf1.chunk.js.map",
+    "index.html": "/Progress-Circle-Bar/index.html",
+    "static/css/main.9b173a45.chunk.css.map": "/Progress-Circle-Bar/static/css/main.9b173a45.chunk.css.map",
+    "static/js/2.c4a46b43.chunk.js.LICENSE.txt": "/Progress-Circle-Bar/static/js/2.c4a46b43.chunk.js.LICENSE.txt",
+    "static/media/lnz.digital.e844e577.svg": "/Progress-Circle-Bar/static/media/lnz.digital.e844e577.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ae97dde.js",
+    "static/js/2.c4a46b43.chunk.js",
+    "static/css/main.9b173a45.chunk.css",
+    "static/js/main.5b027fe6.chunk.js"
+  ]
+}
